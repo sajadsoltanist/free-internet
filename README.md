@@ -9,5 +9,7 @@ OpenVpn Server Setup:
 * [openvpn-install](https://github.com/Nyr/openvpn-install) - Simple with one command
 
 Telegram:
+* [MTProxy](https://github.com/TelegramMessenger/MTProxy) - MTProto Proxy with Docker Image
+* [mtg](https://github.com/9seconds/mtg) - MTProto Proxy with Docker Image
 
 * [telegram](https://github.com/zhinacode/telegram) - socks5 , SSH between 2 server
