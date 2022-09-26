@@ -7,6 +7,10 @@ iptables -t nat -A PREROUTING -p tcp --dport PORT -j DNAT --to-destination IP:PO
 iptables -t nat -A PREROUTING -p udp --dport PORT -j DNAT --to-destination IP:PORT
 iptables -t nat -A POSTROUTING -j MASQUERADE
 ```
+### SSH Tunneling:
+```bash
+ssh -o GatewayPorts=true  -N -L YOURPORT:0.0.0.0:destinationPORT USER@IP
+```
 OpenVpn Server Setup:
 * [openvpn-install](https://github.com/angristan/openvpn-install) - Simple with one command
 
