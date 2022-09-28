@@ -22,9 +22,10 @@ OpenVpn Server Setup:
 * [openvpn-install](https://github.com/hwdsl2/openvpn-install) - OpenVPN Server Auto Setup Script
 
 * [openvpn-install](https://github.com/Nyr/openvpn-install) - Simple with one command
-# Wireguard
+### Wireguard
 * [Wireguard](https://www.wireguard.com/quickstart/) - official wireguard guide
-
+### shadowsocks
+* [shadowsocks](https://shadowsocks.org/guide/what-is-shadowsocks.html) - official shadowsocks guide
 ### Vmess:
 * [V2Fly](https://www.v2fly.org/en_US/) - Vmess Server, Client guide
 ### Telegram:
