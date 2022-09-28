@@ -14,6 +14,9 @@ ssh -o GatewayPorts=true  -N -L YOURPORT:0.0.0.0:destinationPORT USER@IP
 # VPN Clients:
 ### Windows:
 * [netch](https://github.com/netchx/netch/releases) - netch windows
+* [sstap](https://github.com/githello123/sstap) - sstap (shadowsocks only)
+* [outline](https://github.com/Jigsaw-Code/outline-client/releases) - outline (shadowsocks only)
+
 
 # VPN Servers:
 OpenVpn Server Setup:
