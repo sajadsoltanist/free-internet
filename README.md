@@ -41,4 +41,4 @@ OpenVpn Server Setup:
 
 ### Tutorials
 * [shadowsocks-obfs](https://youtu.be/rtGPtn0Fkv8) - shadowsocks-obfs
-
+* [V2ray](https://youtu.be/Nzc0VXzJe8Y) - V2ray ( Persian )
