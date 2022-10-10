@@ -20,6 +20,9 @@ ssh -o GatewayPorts=true  -N -L YOURPORT:0.0.0.0:destinationPORT USER@IP
 
 
 # VPN Servers:
+Auto Config OpenConnect
+* [OpenConnect](https://github.com/OnlySheikh/easy-ocserv) - Auto Config OpenConnect
+
 OpenVpn Server Setup:
 * [openvpn-install](https://github.com/angristan/openvpn-install) - Simple with one command
 
